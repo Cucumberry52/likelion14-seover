@@ -4,7 +4,7 @@
 
 **서버 실행부터 데이터 보존, 요청 제어, 장애 대응과 모니터링까지.**
 
-Spring PetClinic을 하나의 실습 대상으로 삼아, 서비스를 배포하고 운영하는 데 필요한 구성을 8회차에 걸쳐 확장한 스터디입니다. 이 Repository에서는 전체 학습 과정과 김지태의 담당 활동을 정리하고, 주차별 공동 Repository와 상세 기록을 연결합니다.
+Spring PetClinic을 하나의 실습 대상으로 삼아, 서비스를 배포하고 운영하는 데 필요한 구성을 8회차에 걸쳐 확장한 스터디입니다. 이 Repository에서는 전체 학습 과정과 담당 활동을 정리하고, 주차별 공동 Repository와 상세 기록을 연결합니다.
 
 [스터디 Organization](https://github.com/likelion-server-study) · [전체 Notion 기록](https://app.notion.com/p/1-bdbac3ee3cde83f7977901a38a6758fa) · [주차별 자료](#주차별-학습과-자료) · [나의 역할](#나의-역할)
 
