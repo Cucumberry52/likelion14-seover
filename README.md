@@ -56,16 +56,18 @@ Kubernetes는 7회차에 별도 기초 실습으로만 다뤘습니다.
 
 ## 주차별 학습과 자료
 
-| 회차 | 일자 | 핵심 주제 | 코드·실습 자료 | Notion |
+| 회차 | 일자 | 핵심 주제 | 코드·실습 자료 | 학습 기록 |
 | --- | --- | --- | --- | --- |
-| 1 | 07.14 | 서버 실행, 프로세스·포트·로그 확인 | [WEEK1](https://github.com/likelion-server-study/WEEK1) | [기록](https://app.notion.com/p/7-14-1-39dac3ee3cde80edac8dd93474081b13) |
-| 2 | 07.21 | Docker 이미지·컨테이너, 실행 환경 통일 | [WEEK2](https://github.com/likelion-server-study/WEEK2) | [기록](https://app.notion.com/p/7-21-2-3a2ac3ee3cde807586fff1df3f134674) |
-| 3 | 07.29 | PostgreSQL, 데이터 보존과 트랜잭션 | [WEEK3](https://github.com/likelion-server-study/WEEK3) | [기록](https://app.notion.com/p/7-29-3-3abac3ee3cde80e3a4a7c8ef75557ede) |
-| **4** | **08.04** | **Nginx, 리버스 프록시, 캐시와 요청 보호** | [WEEK4](https://github.com/likelion-server-study/WEEK4) | [기록](https://app.notion.com/p/8-4-4-3b0ac3ee3cde80219946ff46fcd692e4) |
-| 5 | 08.13 | 다중 앱 구성, 로드밸런싱과 장애 우회 | [WEEK5](https://github.com/likelion-server-study/WEEK5) | [기록](https://app.notion.com/p/8-13-5-3bbac3ee3cde80e29c06d7da5b1f48c0) |
-| 6 | 08.18 | Actuator, Prometheus, Grafana와 부하 테스트 | [WEEK6](https://github.com/likelion-server-study/WEEK6) | [기록](https://app.notion.com/p/8-18-6-3c0ac3ee3cde8024a23af66b260fd381) |
-| 7 | 08.28 | Kubernetes 기초와 YAML 기반 구성 관리 | [WEEK7](https://github.com/likelion-server-study/WEEK7) | [기록](https://app.notion.com/p/8-28-7-3c9ac3ee3cde8042aea3e7992198c87a) |
-| **8** | **08.31** | **기존 운영 구조와 AWS 서비스 연결 학습** | [WEEK8](https://github.com/likelion-server-study/WEEK8) | [기록](https://app.notion.com/p/8-31-8-3c9ac3ee3cde80bfb733f942c6486b34) |
+| 1 | 07.14 | 서버 실행, 프로세스·포트·로그 확인 | [WEEK1](https://github.com/likelion-server-study/WEEK1) | [Notion](https://app.notion.com/p/7-14-1-39dac3ee3cde80edac8dd93474081b13) · [PDF](docs/week01.pdf) |
+| 2 | 07.21 | Docker 이미지·컨테이너, 실행 환경 통일 | [WEEK2](https://github.com/likelion-server-study/WEEK2) | [Notion](https://app.notion.com/p/7-21-2-3a2ac3ee3cde807586fff1df3f134674) · [PDF](docs/week02.pdf) |
+| 3 | 07.29 | PostgreSQL, 데이터 보존과 트랜잭션 | [WEEK3](https://github.com/likelion-server-study/WEEK3) | [Notion](https://app.notion.com/p/7-29-3-3abac3ee3cde80e3a4a7c8ef75557ede) · [PDF](docs/week03.pdf) |
+| **4** | **08.04** | **Nginx, 리버스 프록시, 캐시와 요청 보호** | [WEEK4](https://github.com/likelion-server-study/WEEK4) | [Notion](https://app.notion.com/p/8-4-4-3b0ac3ee3cde80219946ff46fcd692e4) · [PDF](docs/week04.pdf) |
+| 5 | 08.13 | 다중 앱 구성, 로드밸런싱과 장애 우회 | [WEEK5](https://github.com/likelion-server-study/WEEK5) | [Notion](https://app.notion.com/p/8-13-5-3bbac3ee3cde80e29c06d7da5b1f48c0) · [PDF](docs/week05.pdf) |
+| 6 | 08.18 | Actuator, Prometheus, Grafana와 부하 테스트 | [WEEK6](https://github.com/likelion-server-study/WEEK6) | [Notion](https://app.notion.com/p/8-18-6-3c0ac3ee3cde8024a23af66b260fd381) · [PDF](docs/week06.pdf) |
+| 7 | 08.28 | Kubernetes 기초와 YAML 기반 구성 관리 | [WEEK7](https://github.com/likelion-server-study/WEEK7) | [Notion](https://app.notion.com/p/8-28-7-3c9ac3ee3cde8042aea3e7992198c87a) · [PDF](docs/week07.pdf) |
+| **8** | **08.31** | **기존 운영 구조와 AWS 서비스 연결 학습** | [WEEK8](https://github.com/likelion-server-study/WEEK8) | [Notion](https://app.notion.com/p/8-31-8-3c9ac3ee3cde80bfb733f942c6486b34) · [PDF](docs/week08.pdf) |
+
+회차별 스터디 기록을 PDF로도 첨부하여 Notion 접근 권한 없이 확인할 수 있도록 했습니다.
 
 각 WEEK Repository에서 해당 회차의 코드·설정·실행 방법을 확인할 수 있습니다. 이 Repository는 전체 활동을 안내하는 문서 저장소이며, 공동 실습 코드는 원본 Repository에서 관리합니다. Notion 문서는 공유 설정에 따라 로그인이 필요할 수 있습니다.
 
