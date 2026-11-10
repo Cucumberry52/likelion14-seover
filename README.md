@@ -52,7 +52,7 @@ flowchart LR
 
 실선은 사용자 → Nginx → PetClinic → PostgreSQL로 이어지는 요청 경로입니다. 점선은 앱 지표가 Prometheus를 거쳐 Grafana에서 시각화되는 정보 흐름입니다. 실제 수집은 Prometheus가 각 앱의 Actuator 지표를 주기적으로 조회하고, Grafana가 Prometheus에 질의하는 방식으로 동작합니다.
 
-Kubernetes는 7회차에 별도 기초 실습으로 다뤘습니다. 위 구성을 전체 Kubernetes 환경으로 이전했다는 의미는 아닙니다.
+Kubernetes는 7회차에 별도 기초 실습으로만 다뤘습니다. 
 
 ## 주차별 학습과 자료
 
