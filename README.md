@@ -8,6 +8,8 @@ Spring PetClinic을 하나의 실습 대상으로 삼아, 서비스를 배포하
 
 [스터디 Organization](https://github.com/likelion-server-study) · [전체 Notion 기록](https://app.notion.com/p/1-bdbac3ee3cde83f7977901a38a6758fa) · [주차별 자료](#주차별-학습과-자료) · [나의 역할](#나의-역할)
 
+<img src="docs/server-study.jpg" alt="서버 스터디 사자 일러스트" width="320">
+
 ## 스터디 소개
 
 | 항목 | 내용 |
